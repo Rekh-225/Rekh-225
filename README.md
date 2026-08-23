@@ -22,7 +22,7 @@ const rehan = {
   ],
   certifications: [
     "Cybersecurity & Compliance Engineering Bootcamp (in progress)",
-    "PISU 2026: Digital Transformation for Business — MCP-Based RAG (Grade A)"
+    "PISU 2026: Digital Transformation for Business — MCP-Based RAG (Grade A)",
     "ISSP 2025: Artificial Intelligence and Human Machine Interaction (Grade 10/10)"
   ],
   status: "BSc Computer Science Engineering, expected 2028",
