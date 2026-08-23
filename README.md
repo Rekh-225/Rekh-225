@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Rehan%20Khaliq&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=19" alt="Rehan Khaliq header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Building+secure%2C+data-driven+systems;Exploring+AI%2C+cloud%2C+automation%2C+and+cybersecurity;Open+to+internships+across+software+and+IT+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&lines=Building+secure%2C+data-driven+systems;Exploring+AI%2C+cloud%2C+automation%2C+and+cybersecurity;Open+to+internships+across+software+and+AI+systems" alt="Typing SVG" />
 
   <br />
 
