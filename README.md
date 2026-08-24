@@ -71,7 +71,7 @@ Built a zero-dependency Python engine for authorized offline PCAP analysis, prot
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cs,ts,mysql,bash&theme=dark" alt="Python, C sharp, TypeScript, MySQL (SQL), Bash" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cs,ts,bash&theme=dark" alt="Python, C sharp, TypeScript, Bash" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
