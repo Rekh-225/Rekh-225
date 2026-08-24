@@ -22,7 +22,7 @@ const rehan = {
   ],
   certifications: [
     "Cybersecurity & Compliance Engineering Bootcamp (in progress)",
-    "PISU 2026: Digital Transformation for Business — MCP-Based RAG (Grade A)"
+    "PISU 2026: Digital Transformation for Business — MCP-Based RAG (Grade A)",
     "ISSP 2025: Artificial Intelligence and Human Machine Interaction (Grade 10/10)"
   ],
   status: "BSc Computer Science Engineering, expected 2028",
@@ -35,7 +35,7 @@ const rehan = {
 ### DevLab — Self-Hosted Development Environment & Web Service
 
 <a href="https://github.com/Rekh-225/devlab-development-environment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekh-225&repo=devlab-development-environment&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="DevLab repository card" />
+  <img src="https://opengraph.githubassets.com/1/Rekh-225/devlab-development-environment" alt="DevLab repository card" />
 </a>
 
 Built a production-style self-hosted development environment on an Azure Ubuntu VM with Git hosting, DNS, monitoring, firewall hardening, and automated backups.
@@ -52,7 +52,7 @@ Built a production-style self-hosted development environment on an Azure Ubuntu 
 ### Deep Packet Inspection System
 
 <a href="https://github.com/Rekh-225/Deep-Packet-Inspection-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekh-225&repo=Deep-Packet-Inspection-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="Deep Packet Inspection System repository card" />
+  <img src="https://opengraph.githubassets.com/1/Rekh-225/Deep-Packet-Inspection-System" alt="Deep Packet Inspection System repository card" />
 </a>
 
 Built a zero-dependency Python engine for authorized offline PCAP analysis, protocol metadata extraction, traffic classification, rule-based filtering, and filtered-PCAP output.
@@ -71,7 +71,7 @@ Built a zero-dependency Python engine for authorized offline PCAP analysis, prot
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cs,ts,sql,bash&theme=dark" alt="Python, C sharp, TypeScript, SQL, Bash" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cs,ts,bash&theme=dark" alt="Python, C sharp, TypeScript, Bash" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -98,14 +98,11 @@ Built a zero-dependency Python engine for authorized offline PCAP analysis, prot
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rekh-225&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Rehan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekh-225&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Rehan's top languages" />
+  <a href="https://github.com/Rekh-225?tab=repositories">Repositories</a> •
+  <a href="https://github.com/Rekh-225?tab=stars">Stars</a> •
+  <a href="https://github.com/Rekh-225">Activity</a>
   <br />
   <img src="https://streak-stats.demolab.com?user=Rekh-225&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="Rehan's GitHub streak" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rekh-225&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="Rehan's GitHub trophies" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekh-225&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=88c0d0&area=true&area_color=5e81ac&hide_border=false&border_color=7dd3fc" alt="Rehan's contribution graph" />
 </div>
 
 ## Connect
